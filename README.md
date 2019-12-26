@@ -1,6 +1,6 @@
 # Basic-Engineering-Design
 2019-2학기에 수강한 공학기초설계(109006-11002) 자율주제 팀 프로젝트\
-HW : LEGO MINDSTORMS EV3\
+HW : LEGO® MINDSTORMS® Education EV3 Core Set\
 SW : https://education.lego.com/en-us/downloads/mindstorms-ev3/software\
 
 ### 목표 : OMR 판독기 만들기
