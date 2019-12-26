@@ -1,6 +1,6 @@
 # project-basic-engineering-design
 2019-2학기에 수강한 공학기초설계(109006-11002) 자율주제 팀 프로젝트\
-팀명 : SOMR C-5\
+팀명 : SOMR C-5
 
 사용한 HW/SW : \
 HW : LEGO® MINDSTORMS® Education EV3 Core Set\
